@@ -1,0 +1,15 @@
+D:\Vasu-Kut\VasuKut.Infrastructure\bin\Debug\net8.0\VasuKut.Infrastructure.deps.json
+D:\Vasu-Kut\VasuKut.Infrastructure\bin\Debug\net8.0\VasuKut.Infrastructure.dll
+D:\Vasu-Kut\VasuKut.Infrastructure\bin\Debug\net8.0\VasuKut.Infrastructure.pdb
+D:\Vasu-Kut\VasuKut.Infrastructure\bin\Debug\net8.0\VasuKut.Core.dll
+D:\Vasu-Kut\VasuKut.Infrastructure\bin\Debug\net8.0\VasuKut.Core.pdb
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\VasuKut.Infrastructure.csproj.AssemblyReference.cache
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\VasuKut.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\VasuKut.Infrastructure.AssemblyInfoInputs.cache
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\VasuKut.Infrastructure.AssemblyInfo.cs
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\VasuKut.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\VasuKut..30D8D649.Up2Date
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\VasuKut.Infrastructure.dll
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\refint\VasuKut.Infrastructure.dll
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\VasuKut.Infrastructure.pdb
+D:\Vasu-Kut\VasuKut.Infrastructure\obj\Debug\net8.0\ref\VasuKut.Infrastructure.dll

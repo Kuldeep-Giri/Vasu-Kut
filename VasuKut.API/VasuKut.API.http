@@ -1,0 +1,6 @@
+@VasuKut.API_HostAddress = http://localhost:5145
+
+GET {{VasuKut.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
